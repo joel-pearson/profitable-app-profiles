@@ -1,5 +1,5 @@
 # profitable-app-profiles
-dataquest project01: Profitable App Profiles for the App Store and Google Play Markets
+Dataquest project01: Profitable App Profiles for the App Store and Google Play Markets
 
 ---
 
